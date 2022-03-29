@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>511320888295-hq86f0mm2o03letd4a3rk1dntgk5isq4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.511320888295-hq86f0mm2o03letd4a3rk1dntgk5isq4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>511320888295-7ml5v2lv8281q3pvlqporg65ghk02r25.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBoyH8SPfaMtg-NvOB2FewpRDGtZND1cqk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>511320888295</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dorf.foto.datingApp.lavada</string>
+	<key>PROJECT_ID</key>
+	<string>lavada-7777</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lavada-7777.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:511320888295:ios:f65f92204732ecf4d5a342</string>
+	<key>DATABASE_URL</key>
+	<string>https://lavada-7777-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
